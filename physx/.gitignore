@@ -1,3 +1,10 @@
 compiler/linux-*
 compiler/vc*
 include/PxConfig.h
+
+# VS
+bin/
+obj/
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
